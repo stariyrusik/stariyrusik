@@ -1,4 +1,5 @@
 # <a name="Start"> Умный Город </a>
+![kandinsky-download-1729275013447](https://github.com/user-attachments/assets/91b78124-930e-457a-b01e-dde81ddba6ec)
 
 Состав команды:
 - Максимов Руслан - 3 курс ИВТ-22-22
