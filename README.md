@@ -81,9 +81,8 @@
 
 ## <a name="Architecture1">Архитектура (До кибериммунизации)</a>
 
-![image](https://github.com/user-attachments/assets/06140587-9350-4f87-89d6-069f79370fe7)
+![image](https://github.com/user-attachments/assets/b77b242e-46d9-4c81-b42a-88aad1010cf0)
 
-)
 
 ## <a name="NegativeScenarios">Описание сценариев, при которых ЦБ нарушается</a>
 ### Сценарий №1
@@ -162,7 +161,7 @@
 
 ## <a name="Architecture2">Архитектура (после кибериммунизации)</a>
 
-![ы](photo_2024-10-16_22-51-42.jpg)
+![image](https://github.com/user-attachments/assets/06140587-9350-4f87-89d6-069f79370fe7)
 
 
 ## <a name="Decision">Решение</a>
