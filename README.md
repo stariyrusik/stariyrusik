@@ -81,7 +81,8 @@
 
 ## <a name="Architecture1">Архитектура (До кибериммунизации)</a>
 
-![ыы](/![image](https://github.com/user-attachments/assets/261f4623-e2ed-46b9-92b9-35426474d014)
+![image](https://github.com/user-attachments/assets/06140587-9350-4f87-89d6-069f79370fe7)
+
 )
 
 ## <a name="NegativeScenarios">Описание сценариев, при которых ЦБ нарушается</a>
